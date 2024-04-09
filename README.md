@@ -1,2 +1,2 @@
 # Solemne1
-luego la pondre
+Primero analizare las bases de datos en BigQuery de google cloud 
